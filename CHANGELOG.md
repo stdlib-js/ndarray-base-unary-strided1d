@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1d0c130`](https://github.com/stdlib-js/stdlib/commit/1d0c13090eff8e9802ebd43c8628529309895b11) - ensure correct shape and strides
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`1d0c130`](https://github.com/stdlib-js/stdlib/commit/1d0c13090eff8e9802ebd43c8628529309895b11) - **fix:** ensure correct shape and strides _(by Athan Reines)_
 -   [`d389d89`](https://github.com/stdlib-js/stdlib/commit/d389d8905c302347394f2df9d9553b3d02d4c759) - **feat:** add `ndarray/base/unary-strided1d` _(by Athan Reines)_
 
 </details>
