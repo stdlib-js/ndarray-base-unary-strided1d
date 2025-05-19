@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-27)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -21,6 +21,8 @@
 
 ### Bug Fixes
 
+-   [`ae2b9a3`](https://github.com/stdlib-js/stdlib/commit/ae2b9a327b74ca7bdc03996cbb77a87053d19896) - use resolved order when computing loop variables
+-   [`3fbb654`](https://github.com/stdlib-js/stdlib/commit/3fbb6542732cd06fc8d54b9bea5734261ab7c871) - use computed order
 -   [`ccba75e`](https://github.com/stdlib-js/stdlib/commit/ccba75ea9ec47fe7ccc85f87dff6c9759294094e) - address off-by-one error
 -   [`0216d98`](https://github.com/stdlib-js/stdlib/commit/0216d98429db599b577ac3b5dd89bc6b72902e1c) - verify that input and output ndarrays have same number of dimensions
 -   [`1d0c130`](https://github.com/stdlib-js/stdlib/commit/1d0c13090eff8e9802ebd43c8628529309895b11) - ensure correct shape and strides
@@ -35,6 +37,8 @@
 
 <details>
 
+-   [`ae2b9a3`](https://github.com/stdlib-js/stdlib/commit/ae2b9a327b74ca7bdc03996cbb77a87053d19896) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
+-   [`3fbb654`](https://github.com/stdlib-js/stdlib/commit/3fbb6542732cd06fc8d54b9bea5734261ab7c871) - **fix:** use computed order _(by Athan Reines)_
 -   [`aa7edbf`](https://github.com/stdlib-js/stdlib/commit/aa7edbf50d41cdea1f28b13537f2810fa84ef3c7) - **feat:** add support for enforcing traversal order _(by Athan Reines)_
 -   [`ccba75e`](https://github.com/stdlib-js/stdlib/commit/ccba75ea9ec47fe7ccc85f87dff6c9759294094e) - **fix:** address off-by-one error _(by Athan Reines)_
 -   [`e00f861`](https://github.com/stdlib-js/stdlib/commit/e00f86162891392508f20d212cf2b3b01f111203) - **refactor:** ensure iteration happens according to memory layout of input ndarray _(by Athan Reines)_
