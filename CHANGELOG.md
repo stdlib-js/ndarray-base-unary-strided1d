@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`e031b1b`](https://github.com/stdlib-js/stdlib/commit/e031b1b5d6c8993087b34770ae694ba11c23532a) - **docs:** fix comment _(by Athan Reines)_
 -   [`ae2b9a3`](https://github.com/stdlib-js/stdlib/commit/ae2b9a327b74ca7bdc03996cbb77a87053d19896) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
 -   [`3fbb654`](https://github.com/stdlib-js/stdlib/commit/3fbb6542732cd06fc8d54b9bea5734261ab7c871) - **fix:** use computed order _(by Athan Reines)_
 -   [`aa7edbf`](https://github.com/stdlib-js/stdlib/commit/aa7edbf50d41cdea1f28b13537f2810fa84ef3c7) - **feat:** add support for enforcing traversal order _(by Athan Reines)_
