@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-06)
 
 <section class="features">
 
@@ -21,6 +21,7 @@
 
 ### Bug Fixes
 
+-   [`4d29349`](https://github.com/stdlib-js/stdlib/commit/4d29349017e6d62d7f72aa0c3a86a24fdd83e86a) - address increment bug
 -   [`ae2b9a3`](https://github.com/stdlib-js/stdlib/commit/ae2b9a327b74ca7bdc03996cbb77a87053d19896) - use resolved order when computing loop variables
 -   [`3fbb654`](https://github.com/stdlib-js/stdlib/commit/3fbb6542732cd06fc8d54b9bea5734261ab7c871) - use computed order
 -   [`ccba75e`](https://github.com/stdlib-js/stdlib/commit/ccba75ea9ec47fe7ccc85f87dff6c9759294094e) - address off-by-one error
@@ -37,6 +38,7 @@
 
 <details>
 
+-   [`4d29349`](https://github.com/stdlib-js/stdlib/commit/4d29349017e6d62d7f72aa0c3a86a24fdd83e86a) - **fix:** address increment bug _(by Athan Reines)_
 -   [`e031b1b`](https://github.com/stdlib-js/stdlib/commit/e031b1b5d6c8993087b34770ae694ba11c23532a) - **docs:** fix comment _(by Athan Reines)_
 -   [`ae2b9a3`](https://github.com/stdlib-js/stdlib/commit/ae2b9a327b74ca7bdc03996cbb77a87053d19896) - **fix:** use resolved order when computing loop variables _(by Athan Reines)_
 -   [`3fbb654`](https://github.com/stdlib-js/stdlib/commit/3fbb6542732cd06fc8d54b9bea5734261ab7c871) - **fix:** use computed order _(by Athan Reines)_
