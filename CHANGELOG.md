@@ -38,6 +38,7 @@
 
 <details>
 
+-   [`2cc4943`](https://github.com/stdlib-js/stdlib/commit/2cc4943bf4042480bc123365f3943bced574ae17) - **docs:** fix example _(by Athan Reines)_
 -   [`6bc3cd0`](https://github.com/stdlib-js/stdlib/commit/6bc3cd01d5760daa41777a070aae6a9d6b476d44) - **docs:** update examples _(by Athan Reines)_
 -   [`4d29349`](https://github.com/stdlib-js/stdlib/commit/4d29349017e6d62d7f72aa0c3a86a24fdd83e86a) - **fix:** address increment bug _(by Athan Reines)_
 -   [`e031b1b`](https://github.com/stdlib-js/stdlib/commit/e031b1b5d6c8993087b34770ae694ba11c23532a) - **docs:** fix comment _(by Athan Reines)_
