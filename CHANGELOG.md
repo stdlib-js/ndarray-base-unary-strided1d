@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-19)
+## Unreleased (2026-05-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8bc28dd`](https://github.com/stdlib-js/stdlib/commit/8bc28dd32b2b136b57c4c5c5d9298988e8d1ef47) - **refactor:** use utility to create objects having a consistent hidden shape _(by Athan Reines)_
 -   [`f52054e`](https://github.com/stdlib-js/stdlib/commit/f52054eb695447bf801c822da2e86bfb36a28699) - **docs:** fix comments _(by Athan Reines)_
 -   [`88a7c4d`](https://github.com/stdlib-js/stdlib/commit/88a7c4de78c60740018a7038279248e48a2019cc) - **refactor:** add support for ancillary ndarray arguments having trailing dimensions _(by Athan Reines)_
 
